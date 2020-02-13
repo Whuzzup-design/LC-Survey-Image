@@ -21,3 +21,11 @@ LC Survey has 24 color themes that can be used ,it will influence answering page
 Each survey has its independent image gallery, and image is be reusable.
 
 ![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/image_gallery.png)
+
+### Define correct answer and calculate score
+If open "Calculate score", survey owner can set option is correct or not by clicking mark which is before option text；owner can also see
+the correct options below question when viewing individual results.
+
+![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/setting_correct_answer.png)
+
+![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/view_individual_results.png)
