@@ -8,8 +8,8 @@ The feature include:
 - Define correct answer and calculate score
 - Custom page direction logic
 - Submit feedback after completing the survey
+- Results statistics
 - Graphical results statistics
-- Results download(.xls)
 - Authenticate user
 
 ### Define survey color theme
@@ -29,3 +29,33 @@ the correct options below question when viewing individual results.
 ![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/setting_correct_answer.png)
 
 ![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/view_individual_results.png)
+
+### Custom page direction logic
+Each page and option can setting next page direction；when user after click "Next page" button in answering page, system will get next page direction according to these setting(Note:option page direction priority is higher than page)
+
+![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/page_direction.png)
+
+### Submit feedback after completing the survey
+LC Survey can collect user feedback who has completed survey and submited feedback, these feedbacks can also be downloaded as excel file(.xls)
+
+![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/user_feedback.png)
+
+![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/user_feedback_excel.png)
+
+### Results statistics
+Aggregating results data is the most important thing after completing survey, LC Survey can let survey owner view individual results and
+download result as excel file(.xls)
+
+![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/view_results.png)
+
+![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/view_results_excel.png)
+
+### Graphical results statistics
+LC Survey can build graphical result statistics with a pie chart appearance based on the option has been selected counts.
+
+![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/graphical_results_statistics.png)
+
+### Authenticate user
+Survey owner can set whether to authenticate users before answering question
+
+![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/authenticate_user.png)
