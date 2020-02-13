@@ -59,3 +59,8 @@ LC Survey can build graphical result statistics with a pie chart appearance base
 Survey owner can set whether to authenticate users before answering question
 
 ![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/authenticate_user.png)
+
+
+
+We will add more humanized features in the furture, if you have any suggest or question please leave your message in issues,
+it's really helpful to us, Thank you.(Issues link:[Issues link](https://github.com/Whuzzup-design/LC-Survey/issues/new))
