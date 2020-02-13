@@ -12,5 +12,12 @@ The feature include:
 - Results download(.xls)
 - Authenticate user
 
-### Define survey color theme
+#### Define survey color theme
+LC Survey has 24 color themes that can be used ,it will influence answering page background color、checkbox mark color、single choice mark color and star mark color.
 
+![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/option.png)
+
+#### Independent image gallery of survey
+Each survey has its independent image gallery, and image is be reusable.
+
+![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/image_gallery.png)
