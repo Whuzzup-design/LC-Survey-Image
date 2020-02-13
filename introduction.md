@@ -1,4 +1,4 @@
-# LC-Survey
+# LC Survey
 LC Survey is very simple and readable. You can create your own survey in a few minutes!
 
 The feature include:
@@ -12,4 +12,5 @@ The feature include:
 - Results download(.xls)
 - Authenticate user
 
-![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/1111.png)
+### Define survey color theme
+
