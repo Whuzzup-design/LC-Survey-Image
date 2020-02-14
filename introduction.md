@@ -18,7 +18,7 @@ LC Survey has 24 color themes that can be used ,it will influence answering page
 ![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/option.png)
 
 ### Independent image gallery of survey
-Each survey has its independent image gallery, and image is be reusable.
+Each survey has its independent image gallery, and image is reusable.
 
 ![image](https://github.com/Whuzzup-design/LC-Survey/blob/master/image_gallery.png)
 
