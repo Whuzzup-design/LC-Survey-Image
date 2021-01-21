@@ -63,4 +63,4 @@ Survey owner can set whether to authenticate users before answering question
 
 
 We will add more humanized features in the furture, if you have any suggest or question please leave your message in issues,
-it's really helpful to us, Thank you.(Issues link:[Issues link](https://github.com/Whuzzup-design/LC-Survey/issues/new))
+it's really helpful to us, Thank you.(Issues link:[Issues link](https://github.com/Whuzzup-design/LC-Survey/issues/new)、Source link:[Source link](https://web.liferay.com/zh/marketplace/-/mp/application/172659120))
